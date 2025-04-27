@@ -2,3 +2,4 @@
 This is a practice in git
 shay
 tast
+commit
